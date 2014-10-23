@@ -1,0 +1,375 @@
+{
+    "shops": [
+        {
+            "id": 3,
+            "name": "La osteria",
+            "category": "Ristorante",
+            "phone": "055.3031.2626",
+            "site": "http:\/\/ww.laosteria.com",
+            "email": "info@hostingsolutions.it",
+            "location": {
+                "name": "La osteria",
+                "lng": 12.29905,
+                "lat": 45.563956,
+                "address": "piazza IV novembre, Marcon (VE)",
+                "province": "Venezia"
+            }
+
+        },
+        {
+            "id": 28,
+            "name": "Hotel Tevere Perugia",
+            "category": "Servizi - altro",
+            "phone": "075394341",
+            "site": "www.tevere.it",
+            "email": "mail@tevere.it",
+            "location": {
+                "name": "Hotel 3 stelle nella prima periferia della città c",
+                "lng": 12.44598,
+                "lat": 43.08836,
+                "address": "via Mario Bochi, 14 Ponte San Giovanni, Perugia",
+                "province": "Perugia"
+            }
+
+        },
+        {
+            "description": "Ristorante Tevere Perugia, carne e pesce alla brace, in bellavista, in sala da pranzo! Oltre la posizione strategica c'è molto di più...",
+            "img": true,
+            "id": 29,
+            "name": "Ristorante Tevere",
+            "category": "Dettaglio (non inserito in altre categorie)",
+            "phone": "075394341",
+            "site": "www.tevere.it",
+
+            "email": "mail@tevere.it",
+            "location": {
+                "name": "Ristorante Tevere",
+                "lng": 12.44598,
+                "lat": 43.08836,
+                "address": "via Mario Bochi, 16 06135 P.S.Giovanni, Perugia",
+                "province": "Perugia"
+            }
+
+        },
+        {
+            "description": "Micso Internet Provider",
+            "img": true,
+            "id": 23,
+            "name": "Micso",
+            "category": "Computer, accessori e servizi",
+            "phone": "0857996598",
+            "site": "http:\/\/www.micso.it",
+
+            "email": "info@micso.it",
+
+            "location": {
+                "name": "Micso",
+                "lng": 14.19921,
+                "lat": 42.44379,
+                "address": "via Tiburtina, 318 Pescara",
+                "province": "Pescara"
+            }
+
+        },
+        {
+            "description": "Pranzi Veloci di alta qualità nel cuore della città",
+            "img": true,
+            "id": 43,
+            "name": "Bar Centrale Arezzo",
+            "category": "Commercio al dettaglio e servizi alimentari",
+            "phone": "3331839853",
+            "site": "",
+
+            "email": "dmattioli@alumni.mib.edu",
+
+            "location": {
+                "name": "Bar Centrale",
+                "lng": 11.87741,
+                "lat": 43.46261,
+                "address": "via guido monaco 70 arezzo",
+                "province": "Arezzo"
+            }
+
+        },
+        {
+            "description": "SmsHosting.it è un gateway SMS a pagamento, per la ricezione e l'invio di SMS dal web in Italia ed in altre 188 nazioni al mondo (604 gli operatori GSM complessivamente raggiunti), realizzato interamente da www.i-contact.it\r\n\r\nL'idea di fondo è utilizzare le connessioni dirette con i principali gestori GSM per realizzare sia un risparmio sul costo unitario di ciascun sms sia la flessibilità di un sistema informatico per l'automazione nella gestione delle proprie comunicazioni mobili. ",
+            "img": true,
+            "id": 1,
+            "name": "SmsHosting",
+            "category": "Computer, accessori e servizi",
+            "phone": "+39 0437 30419",
+            "site": "http:\/\/www.smshosting.it",
+
+            "email": "info@smshosting.it",
+
+            "location": {
+                "name": "i-contact",
+                "lng": 12.23367,
+                "lat": 46.16004,
+                "address": "via masi simonetti, 48 Belluno (BL)",
+                "province": "Belluno"
+            }
+
+        },
+        {
+            "description": "Comune di Ponte nelle Alpi - Provincia di Belluno",
+            "img": true,
+            "id": 32,
+            "name": "Comune di Ponte nelle Alpi",
+            "category": "Pubblica Amministrazione",
+            "phone": "04379866",
+            "site": "www.comune.pontenellealpi.bl.it",
+
+            "email": "urp@pna.bl.it",
+
+            "location": {
+                "name": "Comune di Ponte nelle Alpi",
+                "lng": 12.30169,
+                "lat": 46.17416,
+                "address": "Frazione Cadola 52\/a",
+                "province": "Belluno"
+            }
+
+        },
+        {
+            "description": "Piccole Follie nasce per essere un punto di riferimento per il tuo bambino. Qui puoi trovare abbigliamento e accessori dei migliori marchi e per ogni occasione, con un sguardo attento sulle mode del momento senza tralasciare la praticità e naturalmente la qualità.\r\n\r\nCi trovi in centro a Limana, 5 km da Belluno in Via Roma, 165.",
+            "img": true,
+            "id": 5,
+            "name": "Piccole Follie",
+            "category": "Abbigliamento, accessori e calzature",
+            "phone": "+393452429309",
+            "site": "http:\/\/www.lepiccolefollie.it\/",
+
+            "email": "info@lepiccolefollie.com",
+
+            "location": {
+                "name": "Piccole Follie",
+                "lng": 12.18003,
+                "lat": 46.09885,
+                "address": "Via Roma, 165 - Liman (BL)",
+                "province": "Belluno"
+            }
+
+        },
+        {
+            "description": "Apicoltura",
+            "img": true,
+            "id": 27,
+            "name": "APIDOLOMITI",
+            "category": "Dettaglio (non inserito in altre categorie)",
+            "phone": "",
+            "site": "www.apidolomiti.com",
+
+            "email": "info@apidolomiti.com",
+
+            "location": {
+                "name": "Sede Apidolomiti Servizi",
+                "lng": 12.17092,
+                "lat": 46.09597,
+                "address": "Via Papa Luciani, 1 LIMANA",
+                "province": "Belluno"
+            }
+
+        },
+        {
+            "description": "Specializzazioni\r\n> audio\/video\r\n> videosorveglianza\r\n> antennistica\r\n> antifurto\r\n> riparazioni tv, lcd, plasma, monitor ecc\r\n> reti e software",
+            "img": true,
+            "id": 6,
+            "name": "Next",
+            "category": "Elettronica e telecomunicazioni",
+            "phone": "+39 0437 804122",
+            "site": "http:\/\/www.nextsedico.it",
+
+            "email": "info@nextsedico.it",
+
+            "location": {
+                "name": "Next",
+                "lng": 12.09638,
+                "lat": 46.1091,
+                "address": "viale Trieste 14 - Sedico (BL)",
+                "province": "Belluno"
+            }
+
+        },
+        {
+            "description": "Informazioni su condizioni meteo e pericolo di valanghe nelle Dolomiti e Prealpi venete",
+            "img": true,
+            "id": 12,
+            "name": "ARPAV Servizio Neve e Valanghe",
+            "category": "Pubblica Amministrazione",
+            "phone": "0436755711",
+            "site": "www.arpa.veneto.it",
+
+            "email": "cva@arpa.veneto.it",
+
+            "location": {
+                "name": "Centro Valanghe di Arabba",
+                "lng": 11.87684,
+                "lat": 46.50025,
+                "address": "Via Pradat, 5 Livinallongo del Col di Lana",
+                "province": "Bolzano"
+            }
+
+        },
+        {
+            "description": "MDAC nasce nel 2004 da un'idea di Domenico Marenghi, oggi può contare oltre 200 siti internet realizzati e un CMS pensato e creato internamente sulle esigenze mutevoli del mercato. Rivenduto a importanti web agency italiane. Ora MDAC, all'interno della nuova struttura GENIUSCOWO, si avvale di diversi professionisti del settore per assecondare tutte le richieste dei clienti, perciò nasce col web e prosegue sempre e solo col WEB in tutte le sue sfaccettature. Avete un web-idea? MDAC può realizzarla. ",
+            "img": true,
+            "id": 15,
+            "name": "MDAC",
+            "category": "Intrattenimento e media",
+            "phone": "0306840636",
+            "site": "www.mdac.it",
+
+            "email": "info@mdac.it",
+
+            "location": {
+                "name": "MDAC",
+                "lng": 10.09111,
+                "lat": 45.55601,
+                "address": "Via Padana Superiore, 173\/a Ospitaletto",
+                "province": "Brescia"
+            }
+
+        },
+        {
+            "description": "Canale di informazione dell'amministrazione Comunale di Levate",
+            "img": true,
+            "id": 22,
+            "name": "Levate@NEWS",
+            "category": "Pubblica Amministrazione",
+            "phone": "",
+            "site": "www.comune.levate.bg.it",
+
+            "email": "",
+
+            "location": {
+                "name": "Sede Comunale",
+                "lng": 9.624320000000001,
+                "lat": 45.62544,
+                "address": "Piazza Roma, Levate",
+                "province": "Bergamo"
+            }
+
+        },
+        {
+            "description": "smartGuaridan alert",
+            "img": true,
+            "id": 14,
+            "name": "smartGuaridan alert",
+            "category": "Salute e cura della persona",
+            "phone": "800985399",
+            "site": "www.smartguardian.eu",
+
+            "email": "notification@smartguardian.eu",
+
+            "location": {
+                "name": "Headquarter",
+                "lng": 8.951840000000001,
+                "lat": 46.00861,
+                "address": "Via Dufour, 2 6900 Lugano",
+                "province": "Lugano"
+            }
+
+        },
+        {
+            "description": "Una moderna agenzia immobiliare, per tutti coloro che cercano immobili a Pistoia. Dalla casa alla villa, dal locale commerciale al garage, Antonio Troise è semplicemente uno di casa. Per Acquistare, Vendere, Cambiare e Affittare un immobile a Pistoia e provincia affidatevi ad un esperto, preparato e qualificato operatore del real estate pistoiese. Vi seguirà sempre personalmente ad espletare a 360 gradi la trattativa, per l acquisto della vostra casa a Pistoia. La nostra agenzia immobiliare è a Vostra disposizione, tutti i giorni feriali, dalle 8,30 alle 20,30, previo appuntamento. Antonio Troise, uno di Casa.",
+            "img": true,
+            "id": 10,
+            "name": "Antonio Troise uno di Casa",
+            "category": "Servizi - altro",
+            "phone": "3397974368",
+            "site": "www.troiseimmobiliare.it",
+
+            "email": "info@troiseimmobiliare.it",
+
+            "location": {
+                "name": "agenzia immobiliare carratica di antonio troise",
+                "lng": 10.91834,
+                "lat": 43.92952,
+                "address": "via porta carratica 54 pistoia",
+                "province": "Pistoia"
+            }
+
+        },
+        {
+            "description": "lefotodiriccardo pistoia, studio fotografico, cerimonie ed eventi",
+            "img": true,
+            "id": 21,
+            "name": "lefotodiriccardo Junior Photo Planet Pistoia",
+            "category": "Servizi - altro",
+            "phone": "0573308368",
+            "site": "www.lefotodiriccardo.it",
+
+            "email": "info@lefotodiriccardo.it",
+
+            "location": {
+                "name": "Studio Fotografico Pistoia",
+                "lng": 10.90676,
+                "lat": 43.92914,
+                "address": "via Pertini 754",
+                "province": "Pistoia"
+            }
+
+        },
+        {
+            "description": "vendita online prodotti per auto",
+            "img": true,
+            "id": 19,
+            "name": "ProtoXide",
+            "category": "Sport e attività all'aperto",
+            "phone": "0585.026777",
+            "site": "www.protoxide,eu",
+
+            "email": "",
+
+            "location": {
+                "name": "Protoxide",
+                "lng": 10.09721,
+                "lat": 44.034,
+                "address": "via martiri di cefalonia 25 massa",
+                "province": "Massa and Carrara"
+            }
+
+        },
+        {
+            "description": "AgendaOnline",
+            "img": true,
+            "id": 34,
+            "name": "AgendaOnline",
+            "category": "Servizi - altro",
+            "phone": "3888931090",
+            "site": "https:\/\/morrillo.it\/agenda",
+
+            "email": "michelangelo@morrillo.it",
+
+            "location": {
+                "name": "C",
+                "lng": 14.1738,
+                "lat": 42.49625,
+                "address": "Via orta, 5 Pescara",
+                "province": "Pescara"
+            }
+
+        },
+        {
+            "description": "Case Vacanza a Roma\r\nprezzi a partire da:\r\nEuro 25 a persona al giorno!!\r\nNelle zone di:\r\nVia Veneto\/Barberini\/Spagna\r\nPiramide\/Testaccio\/Trastevere\r\nParioli\/Pinciano\/Coppedè\r\nTiburtina\/S.Lorenzo\/Bologna\r\nChiamaci per info dettagliate\r\nMarco 3735554440\r\nDaniele 3389855972",
+            "img": true,
+            "id": 36,
+            "name": "Casa Vacanze Roma Centro Storico",
+            "category": "Servizi - altro",
+            "phone": "3735554440",
+            "site": "https:\/\/www.facebook.com\/casavacanze.romacentro1",
+
+            "email": "piazzabarberini350@gmail.com",
+
+            "location": {
+                "name": "Case Vacanza",
+                "lng": 12.48864,
+                "lat": 41.90378,
+                "address": "Piazza Barberini, roma",
+                "province": "Roma"
+            }
+
+        }
+    ]
+}
